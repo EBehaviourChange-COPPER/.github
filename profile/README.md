@@ -21,7 +21,7 @@ Filip De Turck ( filip.deturck@ugent.be )
 
 ## More information
 
-* The latest public version of the COPPER ontology can be found [here]([https://github.ugent.be/COPPER/Ontology](https://github.com/EBehaviourChange-COPPER/ontology/blob/main/COPPER_ontology_rules.owl))
+* The latest public version of the COPPER ontology can be found [here](https://github.com/EBehaviourChange-COPPER/ontology/blob/main/COPPER_ontology_rules.owl)
 * For more information regarding the COPPER project and our research regarding ontologies and physical activity,we would like to refer you to the following publications
   + [Identifying app components that promote physical activity: a group concept mapping study](https://peerj.com/articles/17100/)
   + [Content and quality of physical activity ontologies: a systematic review](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-023-01428-y)
